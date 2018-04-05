@@ -1,3 +1,27 @@
+<h2>Team 7: </h2>
+<ul>
+  <li>Matthew Sredojevic - Role</li>
+  <li>Guillermo Rodriguez - Programmer</li>
+  <li>Cole Gendelman - Role</li>
+  <li>Josh Griffiths - Role</li>
+</ul>
+
+<h2>Visualizations: </h2>
+<ul>
+  <li><b>Geographic Visualization</b> - This visualization uses the Google Map API and uses the following data points to ... </li>
+  <li><b>Categorial Visualization</b> - This visualization uses the ... and uses the following data points to ... </li>
+  <li><b>Third Visualization</b> - This visualization uses the ... and uses the following data points to ... </li>
+</ul>
+
+<h2>Design Process: </h2>
+Placeholder content
+
+<h2>Run Instructions: </h2>
+<ol>
+  <li>To run the following visualizations use the following isntructions.</li>
+</ol>
+
+<hr>
 <h2>Project 3:</h2>
 Due 4.6.2018 by 11:59pm through GitHub Classroom 
 Projects may be submitted up to 3 days late, with a 10% penalty per day.
