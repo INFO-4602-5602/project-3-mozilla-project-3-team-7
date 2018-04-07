@@ -10,15 +10,19 @@
 <ul>
   <li><b>Geographic Visualization</b> - This visualization uses the Google Map API and uses the following data points to ... </li>
   <li><b>Categorial Visualization</b> - This visualization uses the ... and uses the following data points to ... </li>
-  <li><b>Third Visualization</b> - This visualization uses the ... and uses the following data points to ... </li>
+  <li><b>Privacy vs Price Visualization</b> - This visualization uses the Bohek and attempts to determine how different tech levels prioritize price and priority. To accomplish this we cleaned the data up to ensure that null values were removed and added two fields that were computed by excel that did a logic check between privacy and price columns. In the survey users were asked to rank several aspects in technology, with lower rank (eg. 1) being highest priority. The logic checks simply adds a boolean 1 in the corresponding PriceFocused or PrivacyFocused that is used to sum the tech level. Both of these are then graphed in a line graph.</li>
 </ul>
 
 <h2>Design Process: </h2>
 Placeholder content
 
 <h2>Run Instructions: </h2>
+
 <ol>
-  <li>To run the following visualizations use the following isntructions.</li>
+  <li>Install Python 3</li>
+  <li>Download Python Module - bokeh using pip</li>
+  <li>To run the Privacy vs Price Tech Level Visualization: In command line run python privacyViz.py</li>
+  <li>This will generate all the required html files (these should already be included in the repository)</li>
 </ol>
 
 <hr>
