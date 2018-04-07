@@ -1,9 +1,9 @@
 <h2>Team 7: </h2>
 <ul>
-  <li>Matthew Sredojevic - Role</li>
+  <li>Matthew Sredojevic - Editor</li>
   <li>Guillermo Rodriguez - Programmer</li>
-  <li>Cole Gendelman - Role</li>
-  <li>Josh Griffiths - Role</li>
+  <li>Cole Gendelman - Programmer</li>
+  <li>Josh Griffiths - Programmer</li>
 </ul>
 
 <h2>Visualizations: </h2>
@@ -22,6 +22,8 @@ Placeholder content
   <li>Install Python 3</li>
   <li>Download Python Module - bokeh using pip</li>
   <li>To run the Privacy vs Price Tech Level Visualization: In command line run python privacyViz.py</li>
+  <li>To run the geoVis.py visualization, first make sure that pandas and geopandas is installed. Then type python geoVis.py to generate the visualization.</li>
+  <li>The DeviceNumToSecurity.py is an incomplete visualization so it will not fit all of the requirements.</li>
   <li>This will generate all the required html files (these should already be included in the repository)</li>
 </ol>
 
